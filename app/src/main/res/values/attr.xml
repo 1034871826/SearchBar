@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <declare-styleable name="SearchBar">
+        <attr name="left_drawable_width" format="dimension" />
+        <attr name="left_drawable_height" format="dimension" />
+        <attr name="right_drawable_width" format="dimension" />
+        <attr name="right_drawable_height" format="dimension" />
+        <attr name="drawable_margin_start" format="dimension" />
+        <attr name="drawable_margin_end" format="dimension" />
+        <attr name="window_margin_top" format="dimension" />
+        <attr name="window_margin_start" format="dimension" />
+        <attr name="window_margin_end" format="dimension" />
+        <attr name="window_alpha" format="float" />
+    </declare-styleable>
+</resources>
